@@ -1,15 +1,16 @@
 " Vim syntax file
 " Language:	Remind
-" Maintainer:	Davide Alberani <alberanid@libero.it>
-" Last Change:	08 Oct 2015
-" Version:	0.6
-" URL:		http://erlug.linux.it/~da/vim/syntax/remind.vim
+" Maintainer:	Davide Alberani <da@erlug.linux.it>
+" Last Change:	02 Nov 2015
+" Version:	0.7
+" URL:		http://ismito.it/vim/syntax/remind.vim
 "
 " Remind is a sophisticated calendar and alarm program.
 " You can download remind from:
 "   https://www.roaringpenguin.com/products/remind
 "
 " Changelog
+" version 0.7: updated email and link
 " version 0.6: added THROUGH keyword (courtesy of Ben Orchard)
 
 if version < 600
